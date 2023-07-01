@@ -1,0 +1,10 @@
+
+# Binaries for programs and plugins
+*.exe
+*.exe~
+
+# editor and IDE paraphernalia
+.idea
+*.swp
+*.swo
+*~
